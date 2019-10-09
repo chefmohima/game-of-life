@@ -1,0 +1,9 @@
+02_LocationPlan.xml FAILED
+08_export_to_RGBU_cloud_data.xml FAILED
+09_export_LP_measures.xml FAILED
+11_export_MP_measures.xml FAILED
+14_export_batch_exec.xml FAILED
+05_Calculation_for_new_worksheet_under_InventoryReceipts_MT.xml FAILED
+02_LC-VAT_for_MT-MP.xml FAILED
+03_LC_and_VAT_for_LP_LT.xml FAILED
+05_Verification_for_new_boolean.xml FAILED

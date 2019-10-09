@@ -1,0 +1,10 @@
+<unittest elapsedTime="1 minute 44.44 seconds" name="05_Verification_for_new_boolean" os="Linux" runcount="1" timestamp="2019-09-18 08:15:32" version="18.0.005.00.003">
+   <errorlist>
+      <error>
+         <testname>Verification for new boolean Wp_Seed_Returns_Setup.Merch Plan Workbook</testname>
+         <exception>TestCase got NamedException: Position index &apos;1&apos; extends beyond limits of dimension &apos;ctry&apos;</exception>
+         <file>/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/RPAC/testcases/11_LC_VAT_MultiChannel/05_Verification_for_new_boolean.xml</file>
+         <line>54</line>
+      </error>
+   </errorlist>
+</unittest>

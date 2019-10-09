@@ -1,0 +1,189 @@
+#####.#####
+#####..#####
+#####01_Admin#####
+01_DataLoadVal.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/01_DataLoadVal.log
+02_LikeStore.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/02_LikeStore.log
+03_EnableOP1.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/03_EnableOP1.log
+03_EnableOP2.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/03_EnableOP2.log
+03_EnableOP3.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/03_EnableOP3.log
+03_EnableOP4.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/03_EnableOP4.log
+03_EnableOP5.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/03_EnableOP5.log
+03_EnableOP6.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/03_EnableOP6.log
+03_EnableOP7.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/03_EnableOP7.log
+03_EnableOP8.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/03_EnableOP8.log
+04_SeedFromForecast.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/04_SeedFromForecast.log
+04_SeedFromLy.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/04_SeedFromLy.log
+#####02_MT_Preseason_Targets#####
+01_MTPreseasonPrereq01.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/01_MTPreseasonPrereq01.log
+01_MTPreseasonPrereq02.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/01_MTPreseasonPrereq02.log
+02_MTPreseasonSeed.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/02_MTPreseasonSeed.log
+03_MTPlanSalesandMarkdowns.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/03_MTPlanSalesandMarkdowns.log
+04_MTTPreseasonRUAurCalc.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/04_MTTPreseasonRUAurCalc.log
+05_MTPreseasonWholesaleFranchise.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/05_MTPreseasonWholesaleFranchise.log
+06_MTPreseasonLocalCurrency.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/06_MTPreseasonLocalCurrency.log
+07_MTPreseasonDirectMeasures.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/07_MTPreseasonDirectMeasures.log
+08_MTPreseasonInvReceipts.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/08_MTPreseasonInvReceipts.log
+09_MTPreseasonGrossMargin.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/09_MTPreseasonGrossMargin.log
+10_MTPreseasonGMlocalCurrency.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/10_MTPreseasonGMlocalCurrency.log
+11_MTGMWholesaleFranchise.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/11_MTGMWholesaleFranchise.log
+12_MTPreseasonPublishTarget.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/12_MTPreseasonPublishTarget.log
+#####03_MP_Preseason_Plan#####
+01_MPPreseasonPrereq01.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/01_MPPreseasonPrereq01.log
+01_MPPreseasonPrereq02.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/01_MPPreseasonPrereq02.log
+02_MPPreseasonSeed.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/02_MPPreseasonSeed.log
+03_MPPreseasonGrossMargin.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/03_MPPreseasonGrossMargin.log
+04_MPPreseasonGMLocalCurrency.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/04_MPPreseasonGMLocalCurrency.log
+05_GMWFprereq.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/05_GMWFprereq.log
+06_MPSubmitPlan.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/06_MPSubmitPlan.log
+07_MTPreseasonReviewReject01.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/07_MTPreseasonReviewReject01.log
+07_MTPreseasonReviewReject02.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/07_MTPreseasonReviewReject02.log
+08_MTpreseasonReviewApprove01.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/08_MTpreseasonReviewApprove01.log
+08_MTpreseasonReviewApprove02.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/08_MTpreseasonReviewApprove02.log
+#####04_LT_Preseason_Planning#####
+01_Prereq01.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/01_Prereq01.log
+01_Prereq02.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/01_Prereq02.log
+02_SeedFromLy.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/02_SeedFromLy.log
+03_SalesMarkdowns.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/03_SalesMarkdowns.log
+04_LocalCurrency.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/04_LocalCurrency.log
+05_ReviewPublish.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/05_ReviewPublish.log
+#####05_LP_Preseason#####
+01_SalesMarkdown.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/01_SalesMarkdown.log
+02_SalesLocalCurrency.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/02_SalesLocalCurrency.log
+03_PlanReceipts.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/03_PlanReceipts.log
+04_GrossMargin.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/04_GrossMargin.log
+05_GMlocalCurrency.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/05_GMlocalCurrency.log
+06_ReviewApprove.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/06_ReviewApprove.log
+07_Prereq01.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/07_Prereq01.log
+07_Prereq02.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/07_Prereq02.log
+08_SeedFromLy.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/08_SeedFromLy.log
+#####06_In_Season_Planning#####
+01_PlanAdmin.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/01_PlanAdmin.log
+02_LocationPlan.xml : FAILED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/02_LocationPlan.err.log
+03_merchent_target_populate_tgt.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/03_merchent_target_populate_tgt.log
+04_merchent_plan_populate_wa.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/04_merchent_plan_populate_wa.log
+05_merchent_target_set_wp_approval_status.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/05_merchent_target_set_wp_approval_status.log
+06_merchent_plan_populate_cp_op.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/06_merchent_plan_populate_cp_op.log
+07_location_plan_populate_lpcp_lpop.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/07_location_plan_populate_lpcp_lpop.log
+08_merchent_plan_populate_cp_op.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/08_merchent_plan_populate_cp_op.log
+09_merchent_plan_populate_wa.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/09_merchent_plan_populate_wa.log
+10_merchent_target_set_wp_approval_status.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/10_merchent_target_set_wp_approval_status.log
+11_merchent_plan_populate_cp_op.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/11_merchent_plan_populate_cp_op.log
+13_merchent_target_populate_tgt.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/13_merchent_target_populate_tgt.log
+14_merchent_plan_populate_wa.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/14_merchent_plan_populate_wa.log
+15_merchent_target_set_wp_approval_status.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/15_merchent_target_set_wp_approval_status.log
+16_merchent_plan_populate_cp_op.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/16_merchent_plan_populate_cp_op.log
+#####09_MFP_Retail_OAT_Tests#####
+01_Load_Hierarchies.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/01_Load_Hierarchies.log
+03_Load_Data_Actuals.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/03_Load_Data_Actuals.log
+04_Load_Data_OnOrder.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/04_Load_Data_OnOrder.log
+05_Load_Data_Admin.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/05_Load_Data_Admin.log
+06_load_all_actuals.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/06_load_all_actuals.log
+07_Process_Batch_Calcs_latest.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/07_Process_Batch_Calcs_latest.log
+08_export_to_RGBU_cloud_data.xml : FAILED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/08_export_to_RGBU_cloud_data.err.log
+09_export_LP_measures.xml : FAILED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/09_export_LP_measures.err.log
+10_export_LT_measures.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/10_export_LT_measures.log
+11_export_MP_measures.xml : FAILED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/11_export_MP_measures.err.log
+12_export_MT_measures.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/12_export_MT_measures.log
+14_export_batch_exec.xml : FAILED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/14_export_batch_exec.err.log
+#####10_Fulfilment#####
+00_Location_set_up.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/00_Location_set_up.log
+01_Validation_new_worksheet.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/01_Validation_new_worksheet.log
+03_Calculation_for_new_worksheet_under_sales_markdown_MT.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/03_Calculation_for_new_worksheet_under_sales_markdown_MT.log
+04_Calculation_for_new_worksheet_under_sales_markdown_MP.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/04_Calculation_for_new_worksheet_under_sales_markdown_MP.log
+05_Calculation_for_new_worksheet_under_InventoryReceipts_MT.xml : FAILED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/05_Calculation_for_new_worksheet_under_InventoryReceipts_MT.err.log
+06_Calculation_for_new_worksheet_under_InventoryReceipts_MP.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/06_Calculation_for_new_worksheet_under_InventoryReceipts_MP.log
+#####11_LC_VAT_MultiChannel#####
+01_setup.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/01_setup.log
+02_LC-VAT_for_MT-MP.xml : FAILED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/02_LC-VAT_for_MT-MP.err.log
+03_LC_and_VAT_for_LP_LT.xml : FAILED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/03_LC_and_VAT_for_LP_LT.err.log
+04_Real_time_alerts_for_Elapsed_period.xml: PASSED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/04_Real_time_alerts_for_Elapsed_period.log
+05_Verification_for_new_boolean.xml : FAILED
+/vol.nas/rpas_qc/mohima/18.0/retail/PlatformTests/Automation/Reporting/05_Verification_for_new_boolean.err.log
